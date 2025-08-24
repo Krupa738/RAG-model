@@ -1,0 +1,26 @@
+# Core dependencies
+fastapi
+uvicorn
+python-dotenv
+requests
+python-multipart
+
+# LangChain dependencies (let pip resolve versions)
+langchain
+langchain-core
+langchain-community
+
+# Vector store and embeddings
+chromadb
+langchain-chroma
+langchain-google-genai
+
+# LLM integration
+langchain-groq
+
+# Document processing
+pypdf
+langchain-text-splitters
+
+# Utilities
+tiktoken
