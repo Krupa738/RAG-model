@@ -1,3 +1,0 @@
-@echo off
-echo Starting RAG Backend...
-python fast_api.py
